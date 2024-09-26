@@ -1,0 +1,52 @@
+.form-group {
+  margin-right: 15px;
+}
+
+.card {
+  max-width: 1025px;
+}
+
+.form-control {
+  min-width: 200px;
+}
+
+.custom-button {
+  border: none;
+  background-color: #5cb85f;
+  color: white;
+}
+
+.custom-button:disabled {
+  background-color: #5cb85f;
+  color: white;
+}
+
+.input-group-text {
+  height: 37.6px;
+}
+
+.floating-form {
+  margin-top: -30px; /* Adjust this value to control how much it floats up */
+  margin-bottom: -30px; /* Adjust this value to control how much it floats down */
+  position: relative;
+  z-index: 10; /* Ensures the form appears on top */
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); /* Adjust shadow to create floating effect */
+  border-radius: 10px; /* Optional: make the form corners rounded */
+  background-color: #fff; /* Ensures a white background */
+}
+
+.input-form {
+  margin-bottom: 150px;
+}
+
+.nav-column {
+  padding-left: 120px;
+}
+
+.address-column {
+  padding-left: 75px;
+}
+
+.socmedia-column {
+  padding-left: 70px;
+}
