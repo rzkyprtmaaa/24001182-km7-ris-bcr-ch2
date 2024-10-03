@@ -21,6 +21,11 @@
   color: white;
 }
 
+.custom-button:hover {
+  background-color: #5cb85f;
+  color: white;
+}
+
 .input-group-text {
   height: 37.6px;
 }
@@ -35,10 +40,6 @@
   background-color: #fff; /* Ensures a white background */
 }
 
-.input-form {
-  margin-bottom: 150px;
-}
-
 .nav-column {
   padding-left: 120px;
 }
@@ -49,4 +50,12 @@
 
 .socmedia-column {
   padding-left: 70px;
+}
+
+.custom-carscontent {
+  margin-top: 75px;
+}
+
+.h3-else {
+  text-align: center;
 }
