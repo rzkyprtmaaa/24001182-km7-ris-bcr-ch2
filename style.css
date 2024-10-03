@@ -59,3 +59,21 @@
 .h3-else {
   text-align: center;
 }
+
+.card-img-top {
+  width: 100%; /* Make the image width fill the card */
+  height: 200px; /* Set a fixed height for the images */
+  object-fit: cover; /* Ensures the image covers the entire area without distortion */
+}
+
+.btn-pilih {
+  background-color: #5cb85f;
+  color: white;
+  width: 100%;
+}
+
+.btn-pilih:hover {
+  background-color: #5cb85f;
+  color: white;
+  width: 100%;
+}
